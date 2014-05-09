@@ -14,6 +14,6 @@ public class CustomerApp {
     public static void main(String[] args) {
         final List<Strawberry> strawberries = SalePerson.acceptOrder(new ArrayList<Byte>());
         final Double price = SalePerson.pay(strawberries);
-
+//////sxccasxcfaccas///
     }
 }
